@@ -8,3 +8,6 @@ Some of the activities that you can participate as part of the the club are:
 - Learn about and build locomotive robots
 
 The club invites individuals of all skill levels to join us in this exciting hobby!
+
+Please join us on our Signal Group [by clicking here](https://signal.group/#CjQKIB5F58UCKH95tNcUgLrBmj23gQs9vuJbGnfvXv9pZCONEhBBml4078hfhwuUT0tCSrAI) (you may need to download the Signal app to get it) or by scanning the QR Code below:
+![alt text](img/signalQR.png)
