@@ -1,2 +1,1 @@
-# info
-Information about the club
+## Welcome to the HEMC Robotics and Electronics Club!
