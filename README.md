@@ -1,4 +1,4 @@
-## Welcome to the HEMC Robotics and Electronics Club!
+# Welcome to the HEMC Robotics and Electronics Club!
 The [HEMC](https://hemc.org) Robotics and Electronics Club has been organized for individuals interested in electronics, embedded systems, home automation, robotics and other related topics that bridges the digital world into the physical.  Regular club meetings help promote learning about how to use software to act on the physical world.
 
 Some of the activities that you can participate as part of the the club are:
@@ -13,5 +13,5 @@ Please join us on our Signal Group [by clicking here](https://signal.group/#CjQK
 
 ![alt text](img/signalQR.png)
 
-# Schedule
+## Schedule
 Activity schedule coming soon!
