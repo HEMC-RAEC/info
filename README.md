@@ -30,7 +30,9 @@ As we move beyond the most basic projects, embedded computing platforms will be 
 ## Schedule
 ### 2023
 **February** - The Club kick-off event will be held at the Digital Garage on the Houston Campus.  It is expected that later activities will be accessible to family members/annuitants as well as employees, however, this kick off session will be held on-campus.  If you would like to invite family members, please follow campus procedures for obtaining a visitor badge for those attending.
+
 **March** - A virtual session will be held in order to provide an overview of the platforms being used and answer any questions about the upcoming activities. 
+
 **April** - This activity will focus on hands-on experience with the Raspberry Pi platform.  Members will learn to load an operating system (OS) on the device and how to log into it remotely. Members will have the opportunity to run / adjust a program on the Raspberry Pi to blink a light, a key foundation in interacting with physical world from code.  Information will be provided about Home Automation distributions that will be used during the next meeting.
 
 **Summer** - Tour of the ExxonMobil robot facility in Friendswood, TX.  More information to be provided at a future date.
