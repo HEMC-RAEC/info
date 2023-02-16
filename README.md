@@ -23,9 +23,9 @@ Some additional, important links are below:
 If you have any issues using Groups.io, please contact the Robotics & Electronics Club at hemc.raec@gmail.com (or post on the Groups.io hemc-raec@groups.io service itself). 
 
 ## Hardware Information
-As part of the many activities planned for the club, we will be using several hardware platforms in our projects.  Because the interaction with them is similar to any other computer, our beginning / basic activities and projects will be built primarily using the (Raspberry Pi)[RaspberryPi.md] platform.  Raspberry Pi has several platforms, including the Raspberry Pi 4 B, the Raspberry Pi Zero (W), and the Raspberry Pi Pico.  Each of these platforms are described, and resource links are available, on the (Raspberry Pi)[RaspberryPi.md] page.
+As part of the many activities planned for the club, we will be using several hardware platforms in our projects.  Because the interaction with them is similar to any other computer, our beginning / basic activities and projects will be built primarily using the [Raspberry Pi](RaspberryPi.md) platform.  Raspberry Pi has several platforms, including the Raspberry Pi 4 B, the Raspberry Pi Zero (W), and the Raspberry Pi Pico.  Each of these platforms are described, and resource links are available, on the [Raspberry Pi](RaspberryPi.md) page.
 
-As we move beyond the most basic projects, embedded computing platforms will be used.  These platforms include the Raspberry Pi Pico, but also the (Arduino)[Arduino.md] and the (ESP32)[ESP32.md] platforms.  Information will be provided, and resource links available, on each of these pages for these platforms.
+As we move beyond the most basic projects, embedded computing platforms will be used.  These platforms include the Raspberry Pi Pico, but also the [Arduino](Arduino.md) and the [ESP32](ESP32.md) platforms.  Information will be provided, and resource links available, on each of these pages for these platforms.
 
 ## Schedule
 ### 2023
