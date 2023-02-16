@@ -17,9 +17,9 @@ The email address for this service is: [hemc-raec@groups.io](hemc-raec@groups.io
 You can also view your messages and manage you preferences on the web.  To view messages on the web, you can visit the HEMC Robotics & Electronics Club Groups.io service here: https://groups.io/g/hemc-raec.  
 
 Some additional, important links are below:
+- Set your subscription settings here: https://groups.io/g/hemc-raec/editsub.
+- Unsubscribe by sending an email to: hemc-raec+unsubscribe@groups.io
 
-Set your subscription settings here: https://groups.io/g/hemc-raec/editsub.
-Unsubscribe by sending an email to: hemc-raec+unsubscribe@groups.io
 If you have any issues using Groups.io, please contact the Robotics & Electronics Club at hemc.raec@gmail.com (or post on the Groups.io hemc-raec@groups.io service itself). 
 
 ## Schedule
