@@ -29,10 +29,37 @@ As we move beyond the most basic projects, embedded computing platforms will be 
 
 ## Schedule
 ### 2023
-**February** - The Club kick-off event will be held at the Digital Garage on the Houston Campus.  It is expected that later activities will be accessible to family members/annuitants as well as employees, however, this kick off session will be held on-campus.  If you would like to invite family members, please follow campus procedures for obtaining a visitor badge for those attending.
 
-**March** - A virtual session will be held in order to provide an overview of the platforms being used and answer any questions about the upcoming activities. 
+*Note: As there has been significant interest in learning about robotics and electronics, these activities have been designed as introductory activities to get started and raise our proficiency to a sufficient level to start working in Robotics.  We recognize that there will be many skill levels in the club and if you would like to help organize any activities with the club, we'd love to have your help!  Just send a note to the club about your idea and we'd love to help make it happen.*
 
-**April** - This activity will focus on hands-on experience with the Raspberry Pi platform.  Members will learn to load an operating system (OS) on the device and how to log into it remotely. Members will have the opportunity to run / adjust a program on the Raspberry Pi to blink a light, a key foundation in interacting with physical world from code.  Information will be provided about Home Automation distributions that will be used during the next meeting.
+**February** - *The Kick-off* - The Club kick-off event will be held at the Digital Garage on the Houston Campus.  It is expected that later activities will be accessible to family members/annuitants as well as employees, however, this kick off session will be held on-campus.  If you would like to invite family members, please follow campus procedures for obtaining a visitor badge for those attending.
+
+**March** - *Getting Started* - A virtual session will be held in order to provide an overview of the platforms being used and answer any questions about the upcoming activities.  We'll also introduce the projects that we'll be working through:
+- Blinking a light
+- Home Automation
+- Building / controlling sensors
+- Controlling a motor
+- Receiving input (e.g. a keypad)
+- Light / LED Displays
+
+**April** - *Working with a Raspberry Pi* - This activity will focus on hands-on experience with the Raspberry Pi platform.  Members will learn to load an operating system (OS) on the device and how to log into it remotely. Members will have the opportunity to run / adjust a program on the Raspberry Pi to blink a light, a key foundation in interacting with physical world from code.  Information will be provided about Home Automation distributions that will be used during the next meeting.
+
+**May** - *Home Automation* - This activity will be focused on loading a Raspberry Pi as a home automation controller that can be used in your home. Home Automation is a good introduction into controlling the physical world with code and, since the devices are commercially built, reduces the troubleshooting and issues that may bog us down when building our own devices.  A Home Automation controller allows you to control all your devices, whether they be WiFi, Zigbee, Z-Wave, or other protocol, through a single interface.  This means you don't have to switch between apps to control your home and can create rules that will run across all your home automation systems.
+
+For those without Home Automation devices, we'll talk about all the options (Zigbee, Z-Wave, WiFi, proprietary protocols) and answer any questions that you might have.
+
+**June** - *Sensors* - 
 
 **Summer** - Tour of the ExxonMobil robot facility in Friendswood, TX.  More information to be provided at a future date.
+
+**July** - *Receiving Input* - 
+
+**August** - *Controlling Light / LED Displays* - 
+
+**September** - *Motors* - 
+
+**October** - *Switching / Relays* - 
+
+**November** - *Holiday Decoration Contest* - 
+
+**December** - *Holiday Social*
